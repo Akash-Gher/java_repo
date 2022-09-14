@@ -16,7 +16,7 @@ public class Dora_problem {
         int n= sc.nextInt();
         int tn= sc.nextInt();
 
-        if(tn==10||tn==11||tn==16||tn==17||tn==18||tn==19||tn==20||tn==5||tn==4||tn==2||tn==3)
+        if(tn<n||tn%n==0||(tn%n==1))
 
         {
 
