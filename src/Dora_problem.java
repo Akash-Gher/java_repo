@@ -10,7 +10,7 @@ public class Dora_problem {
         The third input denotes the tree number, which you have to find whether it's a mango tree or not.*/
 
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter row number , column number and tree Number :");
+        System.out.println("Enter positive row number , column number and tree Number :");
 
         int m= sc.nextInt();
         int n= sc.nextInt();
