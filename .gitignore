@@ -4,4 +4,4 @@ out/
 *.iml
 *.ipr
 *.iws
-Demo.iml
+/Demo.iml
