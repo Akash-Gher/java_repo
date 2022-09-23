@@ -1,6 +1,5 @@
-package PreAssismentProblems;
+package com.Ivycomptech.PreAssismentProblems;
 
-import java.util.Scanner;
 import java.util.Stack;
 
 /*
@@ -16,9 +15,6 @@ Hint: Start off returning string.empty as the default condition. This will allow
 
 RandomBracketsProblem
  */
-import java.util.Stack;
-
-import java.util.*;
 
 public class RandomBracketsProblem {
 

@@ -1,4 +1,4 @@
-package TallestCandelproblem;
+package com.Ivycomptech.TallestCandelproblem;
 
 import java.util.Scanner;
 

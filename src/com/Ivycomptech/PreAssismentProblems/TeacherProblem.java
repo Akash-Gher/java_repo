@@ -1,4 +1,4 @@
-package PreAssismentProblems;
+package com.Ivycomptech.PreAssismentProblems;
 
 import java.util.Scanner;
 
